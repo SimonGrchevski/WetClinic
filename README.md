@@ -1,6 +1,6 @@
 # Database based on a diagram
 
-> I got a database diagram, interpreted it, and implement the SQL needed to build that database.
+> We got a database diagram, interpreted it, and implement the SQL needed to build that database.
 
 
 
